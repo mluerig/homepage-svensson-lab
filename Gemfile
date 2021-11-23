@@ -1,2 +1,5 @@
 source "https://rubygems.org"
-gemspec
+
+gem "minimal-mistakes-jekyll"
+gem "webrick"
+gem 'wdm', '>= 0.1.0'
